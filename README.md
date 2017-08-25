@@ -1,1 +1,10 @@
 This is my readme file
+Exceptional Realty Group Website
+
+#Description
+
+This is an example site for the Ingtro to Front-end Web Development Course at The Flatiron School.
+
+# Contact
+
+email: jon@flatironschool.com
